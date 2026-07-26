@@ -10,8 +10,8 @@ To investigate gene expression patterns during post-diapause development in the 
 
 ### Time series
 
-Data were collected at multiple time points throughout post-diapause development. \
-- 0 hours (around 4 hours after dehydrated embryos were hydrated) \
+Data were collected at multiple time points throughout post-diapause development. 
+- 0 hours (around 4 hours after dehydrated embryos were hydrated) 
 - 6 hours
 - 10 hours
 - 12 hours
